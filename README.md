@@ -32,4 +32,4 @@ Here are some links that may be useful, if learning about Mobile-First Responsiv
 NOTE
 I recommend testing your mobile/responsive pages in Chome with the Viewport Resizer extension
 - https://chromewebstore.google.com/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm
-- 
+
